@@ -1,18 +1,8 @@
-# C++ Algorithm Practice
+# C++ 算法练习
 
-This repository collects my C++ learning notes, assignments, and algorithm practice.
+C++ 课程作业、基础练习和 LeetCode 题解记录。
 
-## Contents
+## 内容
 
-- `Assignment/`: course assignments and small C/C++ exercises
-- `leetcode/`: algorithm practice and LeetCode solutions
-
-## Reference
-
-- [LeetCode-Go by halfrost](https://github.com/halfrost/LeetCode-Go)
-
-## Focus
-
-- C++ fundamentals
-- Data structures and algorithms
-- Problem-solving practice
+- `Assignment/`：课程作业和小练习
+- `leetcode/`：算法题与解法记录
