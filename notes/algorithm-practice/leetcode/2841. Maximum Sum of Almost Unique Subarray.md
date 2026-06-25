@@ -1,0 +1,49 @@
+# [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/)
+
+==哈希表==
+
+## 题目
+
+
+
+--->text
+
+
+
+Example:
+
+
+
+```
+Input: 
+Output: 
+
+
+Explanation:
+
+
+Input: 
+Output: 
+```
+
+
+
+
+
+
+
+## 题目大意
+
+
+
+--->text
+
+
+
+## 解题思路
+
+
+
+--->text
+
+
